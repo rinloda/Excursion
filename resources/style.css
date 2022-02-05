@@ -1,0 +1,47 @@
+/* Universal Style */
+
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+    color: white
+}
+
+/* Header */
+header{
+
+}
+
+main.banner{
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* Nav */
+nav{
+
+}
+
+/* Section */
+h5.download{
+    color: aquamarine;
+    font-size: 16px;
+    text-underline-position: auto;
+}
+
+.title{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description{
+    font-size: 21px;
+    color: gray;
+}
+/* Footer */
+footer{
+    text-align: right;
+    color: gray;
+}
